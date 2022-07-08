@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rutherford's scattering experiment
+* source:	https://sketchfab.com/3d-models/rutherfords-scattering-experiment-1d83e005cc974ef9a6a3b88029611abe
+* author:	Vera4art (https://sketchfab.com/Elvera.Viljoen)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rutherford's scattering experiment" (https://sketchfab.com/3d-models/rutherfords-scattering-experiment-1d83e005cc974ef9a6a3b88029611abe) by Vera4art (https://sketchfab.com/Elvera.Viljoen) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
